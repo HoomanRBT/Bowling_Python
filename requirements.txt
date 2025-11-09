@@ -1,0 +1,5 @@
+mysql-connector-python==8.0.16
+numpy==1.16.4
+opencv-python==4.1.0.25
+protobuf==3.9.0
+six==1.12.0
